@@ -51,6 +51,7 @@
                 int numberOfAnswer = int.Parse(Console.ReadLine());
 
 
+
                 question.Answers = new Answer[numberOfAnswer];
 
                 for (int j = 0; j < numberOfAnswer; j++)
